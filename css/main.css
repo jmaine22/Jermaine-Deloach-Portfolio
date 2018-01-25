@@ -1,0 +1,47 @@
+#wel{
+    position:relative;
+    left: 14%;
+}
+#portimg{
+    position:relative;
+    left: 25%;
+    
+}
+hr{
+    border: 1px solid black;
+
+}
+#bio{
+    width:360px;
+    height: 200px;
+    left: 35%;
+    align-content: center;
+    position:relative;
+}
+#vertical{
+    border: 1px solid black;
+    width:200px;
+    position:relative;
+}
+#socialmedia{
+    display:inline;
+    margin: auto;
+}
+a{
+    color: black;
+}
+div ul li a:hover{
+    color:forestgreen;
+}
+#social{
+}
+footer ul li{
+    display:inline-block;
+    padding-left: 15px;
+}
+footer ul li a:hover{
+    color:forestgreen;
+}
+p{
+    font-family: sans-serif, serif;
+}
