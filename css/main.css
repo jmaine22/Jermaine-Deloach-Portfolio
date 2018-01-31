@@ -23,7 +23,7 @@
     #about{
         position:relative;
         align-content:center;
-        width:600px;
+        background-size:200%;
     }
 }
 @media (max-width: 900px) and (min-width: 768px) {
