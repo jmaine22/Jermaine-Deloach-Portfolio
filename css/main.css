@@ -1,3 +1,20 @@
+@media (max-width: 700px){
+    #wel{
+    position:relative;
+    left: 14%;
+    }
+#portimg{
+    position:relative;
+    left: 25%;   
+    }
+    #bio{
+    width:360px;
+    height: 200px;
+    left: 35%;
+    align-content: center;
+    position:relative;
+    }
+}
 #wel{
     position:relative;
     left: 14%;
