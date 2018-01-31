@@ -23,6 +23,7 @@
     #about{
         position:relative;
         align-content:center;
+        width:600px;
     }
 }
 @media (min-width: 1300px) {
