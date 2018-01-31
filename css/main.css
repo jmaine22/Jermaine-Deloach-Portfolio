@@ -34,12 +34,14 @@
     #portimg{
     margin-left:auto;
     margin-right:auto;
-    left:55%;   
+    left:55%;
+    right:0%;
     }
     #bio{
-    width:800px;
+    width:360px;
     height: 200px;
     left: 35%;
+    right: 0%;
     align-content: center;
     position:relative;
     }
