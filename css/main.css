@@ -38,7 +38,7 @@
 }
 @media screen only and (max-width: 1024px) and (min-width: 768px) {
     .bg-success{
-        width:200%;
+        width:768px;
     }
     #wel{
     position:relative;
