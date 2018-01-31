@@ -36,9 +36,9 @@
         width:600%;
     }
 }
-@media screen only and (max-width: 1024px) and (min-width: 768px) {
+@media screen only (max-width: 1024px) and (min-width: 768px) {
     .bg-success{
-        width:768px;
+        width:768%;
     }
     #wel{
     position:relative;
