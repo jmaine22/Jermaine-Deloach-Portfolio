@@ -25,10 +25,13 @@
         align-content:center;
     }
     .bg-success{
-        width:200%;
+        width:520%;
     }
 }
-@media (max-width: 900px) and (min-width: 768px) {
+@media (max-width: 900px) and (min-width: 700px) {
+    .bg-success{
+        width:200%;
+    }
     #wel{
     position:relative;
     left: 8%;
