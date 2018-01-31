@@ -22,6 +22,20 @@
 
 }
 @media (max-width: 900px) and (min-width: 700px) {
+    #portimg{
+    position:relative;
+    left: 25%;   
+    }
+    #bio{
+    width:360px;
+    height: 200px;
+    left: 35%;
+    align-content: center;
+    position:relative;
+    }
+    #nav{
+        display:none;
+    }
 
 }
 #wel{
