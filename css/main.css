@@ -30,7 +30,7 @@
 }
 @media (max-width: 900px) and (min-width: 700px) {
     .bg-success{
-        width:200%;
+        width:400%;
     }
     #wel{
     position:relative;
