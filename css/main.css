@@ -23,7 +23,9 @@
     #about{
         position:relative;
         align-content:center;
-        background-size:auto;
+    }
+    .bg-success{
+        width:200%;
     }
 }
 @media (max-width: 900px) and (min-width: 768px) {
