@@ -17,6 +17,9 @@
     #nav{
         display:none;
     }
+    #portf{
+        position:relative;
+    }
 }
 @media (min-width: 1300px) {
 
