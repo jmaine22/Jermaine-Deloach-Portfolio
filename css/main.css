@@ -45,6 +45,11 @@
     #nav{
         display:none;
     }
+    #about{
+        position:relative;
+        align-content:center;
+        width:600px;
+    }
 
 }
 #wel{
