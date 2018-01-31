@@ -29,6 +29,10 @@
 
 }
 @media (max-width: 900px) and (min-width: 700px) {
+    #wel{
+    position:relative;
+    left: 14%;
+    }
     #portimg{
     position:relative;
     left: 25%;   
