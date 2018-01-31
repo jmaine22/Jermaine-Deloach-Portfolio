@@ -20,6 +20,10 @@
     #portf{
         position:relative;
     }
+    #about{
+        position:relative;
+        align-content:center;
+    }
 }
 @media (min-width: 1300px) {
 
