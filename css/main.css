@@ -6,36 +6,6 @@
         
     }
 }
-@media screen only (max-width: 700px) and (min-width: 600px){
-    #wel{
-    position:relative;
-    left: 14%;
-    }
-#portimg{
-    position:relative;
-    left: 25%;   
-    }
-    #bio{
-    width:360px;
-    height: 200px;
-    left: 35%;
-    align-content: center;
-    position:relative;
-    }
-    #nav{
-        display:none;
-    }
-    #portf{
-        position:relative;
-    }
-    #about{
-        position:relative;
-        align-content:center;
-    }
-    .bg-success{
-        width:600%;
-    }
-}
 @media screen only (max-width: 1024px) and (min-width: 768px) {
     .bg-success{
         width:768%;
@@ -45,7 +15,7 @@
     left: 8%;
     }
     #portimg{
-    margin-left:-15px;
+    margin-left:-35px;
     left:55%;
     right:0%;
     }
