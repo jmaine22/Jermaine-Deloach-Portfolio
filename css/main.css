@@ -32,7 +32,7 @@
     left: 28%;
     }
     #portimg{
-    position:relative;
+    position:absolute;
     left: 5%;   
     }
     #bio{
