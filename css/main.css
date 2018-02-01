@@ -14,7 +14,7 @@
     position:relative;
     left: 8%;
     }
-    #portimg{
+    .col-*-*{
     float:left;
     }
     #nav{
