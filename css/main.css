@@ -8,6 +8,9 @@ and (max-device-width : 1024px)  { /* STYLES GO HERE */
         position: absolute;
         left: -5%;
     }
+    .bg-success{
+        width:200%;
+    }
 }
 
 #wel{
