@@ -5,9 +5,9 @@ and (max-device-width : 1024px)  { /* STYLES GO HERE */
         display:none;
     }
     #Frida{
-        position: relative;
+        position: absolute;
         left: 0px;
-        top:150px;
+        top: 250px;
     }
     .bg-success{
         width: 170%;
