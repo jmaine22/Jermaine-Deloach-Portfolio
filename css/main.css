@@ -15,18 +15,7 @@
     left: 8%;
     }
     #portimg{
-    margin-left:-45px;
-    left:5%;
-    right:0%;
     float:left;
-    }
-    #bio{
-    width:360px;
-    height: 200px;
-    left: 35%;
-    right: 20%;
-    align-content: center;
-    position:relative;
     }
     #nav{
         display:none;
