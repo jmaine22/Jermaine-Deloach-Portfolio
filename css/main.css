@@ -14,7 +14,7 @@
     position:relative;
     left: 8%;
     }
-    [col-]{
+    [class *="col-"]{
     float:left;
     }
     #nav{
