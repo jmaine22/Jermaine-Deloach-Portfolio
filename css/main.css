@@ -6,7 +6,7 @@
         
     }
 }
-@media screen only (max-width: 1024px) and (min-width: 768px) {
+@media screen (max-width:1024px) and (min-width:768px) {
     .bg-success{
         width:900%;
     }
