@@ -5,7 +5,7 @@ and (max-device-width : 1024px)  { /* STYLES GO HERE */
         display:none;
     }
     #Frida{
-        left:15%;
+        left: 5%;
     }
 }
 
