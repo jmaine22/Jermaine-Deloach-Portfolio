@@ -1,12 +1,16 @@
 @media only screen 
 and (min-device-width : 768px) 
 and (max-device-width : 1024px)  { /* STYLES GO HERE */
+    #wel{
+    position:absolute;
+    left: 14%;
+}
     #nav{
         display:none;
     }
     #Frida{
         position: absolute;
-        left: -10px;
+        left: -1px;
         top: 0px;
     }
     .bg-success{
