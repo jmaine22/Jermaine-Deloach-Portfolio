@@ -7,7 +7,7 @@ and (max-device-width : 1024px)  { /* STYLES GO HERE */
     #Frida{
         position: absolute;
         left: 0px;
-        top: 10px;
+        top: 0px;
     }
     .bg-success{
         width: 170%;
