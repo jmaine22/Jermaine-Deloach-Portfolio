@@ -11,7 +11,7 @@ and (max-device-width : 1024px)  { /* STYLES GO HERE */
         display:none;
     }
     #Frida{
-        position: absolute;
+        position: relative;
         left: -1px;
         top: 0px;
     }
