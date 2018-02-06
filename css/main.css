@@ -22,7 +22,7 @@ and (max-device-width : 1024px)  { /* STYLES GO HERE */
     }
     #con{
         position:relative;
-        left: 250px;
+        left: 50%;
     }
 }
 
