@@ -4,7 +4,7 @@ and (max-device-width : 1024px)  { /* STYLES GO HERE */
     #wel{
     position:absolute;
     left: 14%;
-}
+    }
     #nav{
         display:none;
     }
