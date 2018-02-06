@@ -29,7 +29,6 @@ and (max-device-width : 1024px)  { /* STYLES GO HERE */
         left: 30%;
     }
 }
-@media only screen and (min-width: 1036px){
 #wel{
     position:relative;
     left: 14%;
@@ -78,4 +77,3 @@ div ul li a:hover{
     p{
         font-family: sans-serif, serif;
     }
-}
