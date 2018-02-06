@@ -3,9 +3,8 @@ and (min-device-width : 768px)
 and (max-device-width : 1024px)  { /* STYLES GO HERE */
     #wel{
     position:relative;
-    left: 50%;
+    left: 50px;
     right: 50%;
-    width: 50%;
     }
     #nav{
         display:none;
