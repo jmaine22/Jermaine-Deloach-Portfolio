@@ -4,11 +4,10 @@ and (max-device-width : 1024px)  { /* STYLES GO HERE */
     #wel{
     position:relative;
     float:right;
-    left: 35%;
+    left: 40%;
     }
-    hr{
-        position:relative;
-        left:35%;
+    #hrOne{
+    display:none;
     }
     #nav{
         display:none;
