@@ -3,8 +3,8 @@ and (min-device-width : 768px)
 and (max-device-width : 1024px)  { /* STYLES GO HERE */
     #wel{
     position:relative;
-    float:right;
-    left: 40%;
+    float:left;
+    left: 35%;
     }
     #hrOne{
     display:none;
