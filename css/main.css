@@ -22,11 +22,11 @@ and (max-device-width : 1024px)  { /* STYLES GO HERE */
     }
     #con{
         position:relative;
-        left: 25%;
+        left: 30%;
     }
     footer{
         position:relative;
-        left: 25%;
+        left: 35%;
     }
 }
 
