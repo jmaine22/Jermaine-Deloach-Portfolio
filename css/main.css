@@ -26,7 +26,7 @@ and (max-device-width : 1024px)  { /* STYLES GO HERE */
     }
     footer{
         position:relative;
-        left: 35%;
+        left: 30%;
     }
 }
 
